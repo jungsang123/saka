@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104687439463",
+    "project_id": "uiop-7ac25",
+    "storage_bucket": "uiop-7ac25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104687439463:android:033b81b61c28bf63348ec2",
+        "android_client_info": {
+          "package_name": "com.example.saka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104687439463-7r7tl5cpfl9bvsbm06a0fodeh39l5ta2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saka",
+            "certificate_hash": "875591cfa98d728bf843bb6456efa1d0e13539d4"
+          }
+        },
+        {
+          "client_id": "104687439463-b7cm71039bt7p9mrjvi6p2njs0j4496k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPk7OrD2ti-M9Da_HVbYB0tAYzTU1sN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104687439463-b7cm71039bt7p9mrjvi6p2njs0j4496k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
